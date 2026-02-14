@@ -1,0 +1,5 @@
+name,age,gender,join_date,salary
+John,25,male,2023-01-01,50000.0
+Alice,30,female,,60000.0
+Bob,22,male,,50000.0
+John,25,male,2023-01-01,50000.0
